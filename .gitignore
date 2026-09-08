@@ -1,2 +1,4 @@
-/out/
-*.class
+# Configuración de IntelliJ e compilados de Java
+.idea/
+out/
+*.iml
