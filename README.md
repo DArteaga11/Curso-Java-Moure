@@ -8,6 +8,8 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 
 - [x] **Clase 1: Hola Mundo** (`HolaMundo.java`)
 - [x] **Ejercicios 1: Pon aprueba lo Aprendido** (`HolaMundoEjercicios.java`)
+- [x] **Clase 2: Variables y Constantes || Tipo de datos primitivos** (`VariablesYConstantes.java`) (`TiposDeDatos.java`)
+
 
 ---
 
@@ -18,3 +20,6 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - *Aprendi el funcionamiento de System.out.println("Texto")*
 - *Conoci un poco acerca de las variables y los datos que guardan (int,double,char,booleano,string)*
 - *Realicé con exito los ejercicios mencionados practicando el uso de los mismos*
+- *Identifique a detalle las "Variables", conociendo su funcion, la manera correcta de declararlas y su palabra reservada*
+- *Trabajamos con el uso de "Constantes", ubicando la su funcion y la forma en la que se declaran, con s respectiva palabra reservada*
+- *Se indagó acerca de los tipos de datos "Primitivos" que funcion tenian y cuáles eran estos*
