@@ -9,7 +9,7 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - [x] **Clase 1: Hola Mundo** (`HolaMundo.java`)
 - [x] **Ejercicios 1: Pon aprueba lo Aprendido** (`HolaMundoEjercicios.java`)
 - [x] **Clase 2: Variables y Constantes || Tipo de datos primitivos** (`VariablesYConstantes.java`) (`TiposDeDatos.java`)
-
+- [x] **Ejercicios 2: Ejercicios de Principiantes** (`EjerciciosDePrincipiantes.java`)
 
 ---
 
@@ -23,3 +23,4 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - *Identifique a detalle las "Variables", conociendo su funcion, la manera correcta de declararlas y su palabra reservada*
 - *Trabajamos con el uso de "Constantes", ubicando la su funcion y la forma en la que se declaran, con s respectiva palabra reservada*
 - *Se indagó acerca de los tipos de datos "Primitivos" que funcion tenian y cuáles eran estos*
+- *Durante el ejercicio 2 se puso a prueba el uso de variables y constantes, asi como la suma de 2 variables tipo int y la forma de declarar una variable sin inicializar*
