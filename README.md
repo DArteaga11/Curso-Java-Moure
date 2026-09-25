@@ -8,9 +8,11 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 
 - [x] **Clase 1: Hola Mundo** (`HolaMundo.java`)
 - [x] **Ejercicios 1: Pon aprueba lo Aprendido** (`HolaMundoEjercicios.java`)
+- 
 - [x] **Clase 2: Variables y Constantes || Tipo de datos primitivos** (`VariablesYConstantes.java`) (`TiposDeDatos.java`)
 - [x] **Ejercicios 2: Ejercicios de Principiantes** (`EjerciciosDePrincipiantes.java`)
-
+- 
+- [x] **Clase 3: Tipos de Operadores** (`Operadores.java`)
 ---
 
 ## 📝 Mis Apuntes
@@ -20,7 +22,12 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - *Aprendi el funcionamiento de System.out.println("Texto")*
 - *Conoci un poco acerca de las variables y los datos que guardan (int,double,char,booleano,string)*
 - *Realicé con exito los ejercicios mencionados practicando el uso de los mismos*
+---
 - *Identifique a detalle las "Variables", conociendo su funcion, la manera correcta de declararlas y su palabra reservada*
 - *Trabajamos con el uso de "Constantes", ubicando la su funcion y la forma en la que se declaran, con s respectiva palabra reservada*
 - *Se indagó acerca de los tipos de datos "Primitivos" que funcion tenian y cuáles eran estos*
 - *Durante el ejercicio 2 se puso a prueba el uso de variables y constantes, asi como la suma de 2 variables tipo int y la forma de declarar una variable sin inicializar*
+------
+- *Aprendi los distintos operadores que existe con su respectivo uso*
+- *Realice ejemplos acerca de los operadores (Aritméticos, Asignacion, comparacion (relacionales), logicos, unario)*
+- *Con la intencion de que quedara mas claro apoyandome de la IA imprimi una hoja de ejercicios para poner a prueba lo aprendido*
