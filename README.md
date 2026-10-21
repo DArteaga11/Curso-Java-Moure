@@ -13,6 +13,7 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - [x] **Ejercicios 2: Ejercicios de Principiantes** (`EjerciciosDePrincipiantes.java`)
 - 
 - [x] **Clase 3: Tipos de Operadores** (`Operadores.java`)
+- [x] **Ejercicios 3: Ejercicios de Operadores** (`EjerciciosOperadores.java`)
 ---
 
 ## 📝 Mis Apuntes
@@ -31,3 +32,7 @@ Repositorio personal donde voy realizando los ejercicios, proyectos y notas de a
 - *Aprendi los distintos operadores que existe con su respectivo uso*
 - *Realice ejemplos acerca de los operadores (Aritméticos, Asignacion, comparacion (relacionales), logicos, unario)*
 - *Con la intencion de que quedara mas claro apoyandome de la IA imprimi una hoja de ejercicios para poner a prueba lo aprendido*
+------
+- *Realice los ejercicios para fortalecer el uso de operadores*
+- *Para comprender el funcionamiento imprimimos una hoja la cual contenia ejercicios que se resolvian utilizando los distintos operadores*
+- *Repasamos la diferencias de cada operador, asi como el adecuado uso.. considerando la continua practica para la implementacion correcta*
